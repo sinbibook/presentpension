@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-04-24T03:44:37.581Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-04-24T03:47:22.409Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -1516,7 +1516,104 @@
       },
       "property": {
         "name": "통영 프레전트 감성펜션",
-        "images": [],
+        "images": [
+          {
+            "id": "63933eb5-bb9b-436f-9489-4b66e8c57106",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_thumbnail/1777002400625-fyb76fcxhv6.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "b9b497a8-a582-488c-a6d1-42db4c4a0fbb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400625-s9dazjqzpva.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "fedcd741-8c63-4e42-b371-f017f73943e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400625-vp1ovinkbnc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1f67122c-67c2-488d-8c9b-b7c1e8f1210c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400625-bssatfn98ub.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1cf47439-03d7-452a-98b1-ac516ad39ede",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400625-eejg5v9mq5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "b9a48718-bd7f-4202-885f-a12e7df0ee79",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-8pbezoglyj8.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "8e521a4e-223a-4aa6-923e-99c68d4f0cd1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-cguowi9d2jq.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "8a7a887f-683d-4f07-ba8c-973a0d0b4837",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-ygv9iwycs2r.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "119adf38-e98a-471c-a803-533ba9d1add8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-ei89psbv05a.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "5c7c9f2d-b1ff-490f-8536-d8f257a66bfd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-l82gnwwtdz.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "7bc2d4bd-b25a-422f-a441-13b34efb69f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-qlf7y9z6ke.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1c82f908-8adc-4d76-b313-325600a87006",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400626-ojb62awtfhm.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Tongyeong Present Gamsung Pension"
       },
       "roomtypes": [
