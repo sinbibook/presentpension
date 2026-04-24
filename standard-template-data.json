@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-04-24T06:03:13.360Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-04-24T07:17:26.152Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -73,7 +73,7 @@
         "id": "4ec6a5d2-9852-45a2-950c-3832f1b2bb0a",
         "name": "전 객실 개별 테라스바베큐",
         "description": "바다를 바라보는 넓은 개인 테라스에서 최고급 웨버그릴로 멋진 추억을 가져 가세요.",
-        "usageGuide": "- 101~106 웨버그릴 : 30,000원\n- 201~207 웨버그린 : 2인 기준 20,000원 (기준인원 초과시 1인 5,000원)\n※ 숯/그릴 개인지참 불가\n※ 개인준비한 바비큐 용품 일체 사용 금지(자이글 및 에어프라이어)\n※ 기본양념 개인지참 필수",
+        "usageGuide": "- 101~106 대형 웨버그릴 : 30,000원\n- 201~207 웨버그릴 : 2인 기준 20,000원 (기준인원 초과시 1인 5,000원)\n※ 숯/그릴 개인지참 불가\n※ 개인준비한 바비큐 용품 일체 사용 금지(자이글 및 에어프라이어)\n※ 기본양념 개인지참 필수",
         "displayOrder": 157,
         "images": [
           {
@@ -244,8 +244,94 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "6d2549fd-9dd9-4478-94e2-9f25a4c5e028",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/thumbnail/1777010768480-odebitd19u.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "e010b471-a4f8-476a-971a-c28d61330a86",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768481-nj9rpz094ks.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fefadd85-88ff-41b6-89c3-092668caf1c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-iuz5segqbl.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "73030fb9-4a00-4c46-b166-4dbfb5aff34d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-d23o250x8z.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e3e7c21e-56d0-42b1-9c46-348811af6a27",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-lcf9or3o98a.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "134fffdf-864a-4d35-bef2-14e3a12662fa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-f28laf1a6ba.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "05fc188e-d119-4d3c-9dcc-264e60234233",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-50a79rxplj8.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4cdbdb81-2b78-42c9-b45b-c7e6687e7495",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vjxk0127fzg.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cce2a660-e1c8-44f1-9b90-9bce366c66d5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-rdtzlz6d3rh.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "c8ce8cfd-7f26-4aa0-b366-0fd5de9dc9ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-cnnzf9dnk5d.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6a3dc009-0a70-4510-bad0-83e50d7e766a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vt9rb2ei7c.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8d26409e-bb34-4315-a480-7c7cc9698269",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vjfs0p30r9p.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -342,7 +428,7 @@
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
-        "bathroom": 1,
+        "bathroom": 2,
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
@@ -396,9 +482,9 @@
       ],
       "displayOrder": 2,
       "createdAt": "2026-04-21T01:47:04.769Z",
-      "updatedAt": "2026-04-21T01:47:31.742Z",
+      "updatedAt": "2026-04-24T07:17:05.329Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "572aca4a-021a-4f90-afee-9d4207cdc110",
