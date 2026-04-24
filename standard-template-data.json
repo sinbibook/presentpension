@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-04-24T03:50:10.547Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-04-24T05:06:58.448Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -1457,6 +1457,21 @@
                   ],
                   "blockId": "703e0d7c-dc43-46e4-96de-df10e03bb5c3",
                   "description": "통영 바다를 가장 가까이에서 마주하는 특별한 공간,\n객실 창밖으로 펼쳐진 오션뷰를 여유롭게 감상할 수 있어요.\n루프탑에서는 탁 트인 통영 바다 전경을 한눈에 담을 수 있고,\n낭만적인 바다 감성까지 온전히 즐기기 좋은 곳입니다."
+                },
+                {
+                  "title": "통영 여행을 즐기다",
+                  "images": [
+                    {
+                      "id": "2cfca3b0-a729-423e-a763-8064a2e41e92",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/main_about/1777007049907-f50a8pik884.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "dc4b0d20-33ad-452d-a99c-3412e516c55b"
+                    }
+                  ],
+                  "blockId": "dc4b0d20-33ad-452d-a99c-3412e516c55b",
+                  "description": "통영 관광의 중심, 동피랑 벽화마을 입구에 \n위치한 특별한 공간입니다.\n바로 옆 중앙시장에서 신선한 활어와 \n다양한 해산물을 편하게 즐길 수 있어요.\n강구안과 동피랑까지 이어지는 통영의 대표 관광 코스를 \n가까이에서 만끽해보세요."
                 }
               ]
             }
@@ -1528,7 +1543,7 @@
           {
             "id": "b9b497a8-a582-488c-a6d1-42db4c4a0fbb",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/property_exterior/1777002400625-s9dazjqzpva.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
