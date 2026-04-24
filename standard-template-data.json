@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-04-24T03:47:22.409Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-24T03:49:50.269Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -1219,9 +1219,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "통영 프레전트 감성펜션",
+      "description": "통영 바다를 머금은 신선한 해산물을 가까이에서 만나는 프레전트 감성펜션",
+      "keywords": "통영펜션,통영숙소,통영오션뷰,동피랑숙소,통영프레전트감성펜션"
     },
     "socialLinks": {},
     "customFields": {
