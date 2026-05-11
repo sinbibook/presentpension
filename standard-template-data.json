@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-29T06:12:52.065Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-05-11T01:47:53.862867571Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -26,13 +26,13 @@
     "city": "통영시",
     "domain": "presentpension.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/11906/calendar_list/",
-    "ybsId": "",
-    "amenities": [],
+    "ybsId": "80163",
+    "amenities": [ ],
     "nearbyAttractions": [
       "맛집",
       "테마파크"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "오션뷰",
       "힐링",
@@ -51,7 +51,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -81,35 +82,40 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-oxohkizh9se.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "f7d34ff1-27c1-475a-891f-febee1e886ff",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-dgqrkjvirtj.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ae4f67ff-6c91-4152-b82b-61e4931ed821",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-8hnvbh8i5vg.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "f4522a1c-c1c8-4904-9045-d1e324306b3e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-jrn1rpdsqhf.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "0518b4c6-7c3e-4dd5-a6b9-767d498f500e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-ewv4bwjr0uf.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f7d34ff1-27c1-475a-891f-febee1e886ff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-dgqrkjvirtj.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f4522a1c-c1c8-4904-9045-d1e324306b3e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4ec6a5d2-9852-45a2-950c-3832f1b2bb0a/main/1776998557772-jrn1rpdsqhf.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -121,32 +127,36 @@
         "displayOrder": 159,
         "images": [
           {
-            "id": "ca5fec3d-c61e-401c-8bf6-7d1610b06705",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-971z702ie75.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "5d9c90bd-611f-4fd0-8435-491dfb60bee5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-ny6s6oo9uk.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "0314ac74-e7eb-4767-9d7e-63161781ac3b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-elz5bhmykd.jpg",
-            "sortOrder": 3,
+            "id": "ca5fec3d-c61e-401c-8bf6-7d1610b06705",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-971z702ie75.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "f8a1e59d-e125-4e71-9569-dc034fd741f4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-aiusb5nzqlj.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0314ac74-e7eb-4767-9d7e-63161781ac3b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8947b115-4edd-4eda-ab52-940886e7783c/main/1776998620564-elz5bhmykd.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -158,39 +168,44 @@
         "displayOrder": 160,
         "images": [
           {
-            "id": "4ced1810-2df1-4097-bd75-3319d9dde625",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-edq8k88jsv9.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "6b2a9e39-333f-468e-b0ce-2105fcfcf638",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-yomqgw2seo8.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "ff01388e-2207-4b7f-b112-0d6bbdc62362",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-hkq8t5h227.jpg",
-            "sortOrder": 4,
+            "id": "4ced1810-2df1-4097-bd75-3319d9dde625",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-edq8k88jsv9.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "d5b75585-3910-490b-9a80-816c172f69ba",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-dipjdjccm78.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "b2d329e7-3780-4ee0-ba22-0c8be45b0be7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-pdf7syjt1fe.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d5b75585-3910-490b-9a80-816c172f69ba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-dipjdjccm78.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ff01388e-2207-4b7f-b112-0d6bbdc62362",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/35b81726-23cd-415f-a3d4-c59a85393419/main/1776998593867-hkq8t5h227.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -250,106 +265,114 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/thumbnail/1777010768480-odebitd19u.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
+          {
+            "id": "fefadd85-88ff-41b6-89c3-092668caf1c1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-iuz5segqbl.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "e010b471-a4f8-476a-971a-c28d61330a86",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768481-nj9rpz094ks.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "fefadd85-88ff-41b6-89c3-092668caf1c1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-iuz5segqbl.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "73030fb9-4a00-4c46-b166-4dbfb5aff34d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-d23o250x8z.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "e3e7c21e-56d0-42b1-9c46-348811af6a27",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-lcf9or3o98a.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "134fffdf-864a-4d35-bef2-14e3a12662fa",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-f28laf1a6ba.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "05fc188e-d119-4d3c-9dcc-264e60234233",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-50a79rxplj8.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4cdbdb81-2b78-42c9-b45b-c7e6687e7495",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vjxk0127fzg.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "cce2a660-e1c8-44f1-9b90-9bce366c66d5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-rdtzlz6d3rh.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "c8ce8cfd-7f26-4aa0-b366-0fd5de9dc9ad",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-cnnzf9dnk5d.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "6a3dc009-0a70-4510-bad0-83e50d7e766a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vt9rb2ei7c.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8d26409e-bb34-4315-a480-7c7cc9698269",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vjfs0p30r9p.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4cdbdb81-2b78-42c9-b45b-c7e6687e7495",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-vjxk0127fzg.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "134fffdf-864a-4d35-bef2-14e3a12662fa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768482-f28laf1a6ba.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c8ce8cfd-7f26-4aa0-b366-0fd5de9dc9ad",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-cnnzf9dnk5d.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "cce2a660-e1c8-44f1-9b90-9bce366c66d5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-rdtzlz6d3rh.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "05fc188e-d119-4d3c-9dcc-264e60234233",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688/exterior/1777010768483-50a79rxplj8.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ]
   },
   "rooms": [
     {
       "id": "51175cbd-af8d-44c9-96cc-e37a0407243a",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "101 (오션뷰, 개별테라스)",
-      "nameEn": "101 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실1+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -358,17 +381,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -398,32 +410,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-21T01:47:04.755Z",
-      "updatedAt": "2026-04-21T01:47:18.453Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "7b55330d-300a-49b9-a26c-8fc7ad5acdf3",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "102 (오션뷰, 개별테라스)",
-      "nameEn": "102 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실2+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -433,17 +447,6 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드",
         "싱글 베드"
@@ -472,32 +475,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-21T01:47:04.769Z",
-      "updatedAt": "2026-04-24T09:35:31.170Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "572aca4a-021a-4f90-afee-9d4207cdc110",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "103 (오션뷰, 개별테라스)",
-      "nameEn": "103 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실1+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -506,17 +511,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -546,32 +540,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-21T01:47:04.900Z",
-      "updatedAt": "2026-04-21T01:47:48.700Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     },
     {
       "id": "430cab72-1317-4de2-9c76-3b201362a27a",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "104 (오션뷰, 개별테라스)",
-      "nameEn": "104 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실1+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -580,17 +576,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -620,32 +605,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-21T01:47:04.765Z",
-      "updatedAt": "2026-04-21T01:48:05.499Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 4
     },
     {
       "id": "fc54e481-d8da-4585-a39c-9375c5e80136",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "105 (오션뷰, 개별테라스)",
-      "nameEn": "105 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실1+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -654,17 +641,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -694,32 +670,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-21T01:47:04.981Z",
-      "updatedAt": "2026-04-21T01:48:22.662Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 5
     },
     {
       "id": "dc2b5c0a-e5e0-4a29-a14c-7006b3f92ca5",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "106 (오션뷰, 개별테라스)",
-      "nameEn": "106 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(싱글침대1,퀸침대1)+주방1+화장실1+개별바비큐\n12평 객실에 12평 테라스까지 더해져, 넉넉한 공간에서 여유로운 휴식을 즐기실 수 있습니다.",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 39.67,
-      "sizePyeong": 12,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -728,17 +706,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -768,32 +735,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-21T01:47:04.766Z",
-      "updatedAt": "2026-04-21T01:48:38.438Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 6
     },
     {
       "id": "28fcd36e-b808-407d-acd4-3c6b00ba0de7",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "201 (오션뷰, 개별테라스)",
-      "nameEn": "201 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(싱글침대1,퀸침대1)+화장실1+개별바베큐\n2층 객실은 공용주방 이용 가능",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -802,17 +771,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드",
@@ -841,32 +799,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-21T01:47:04.947Z",
-      "updatedAt": "2026-04-29T06:09:34.009Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 7
     },
     {
       "id": "7a59d507-9e1c-4762-bac0-91c9d4323e28",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "202 (오션뷰, 개별테라스)",
-      "nameEn": "202 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -875,17 +835,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -913,32 +862,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-21T01:47:04.948Z",
-      "updatedAt": "2026-04-29T06:09:48.537Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 8
     },
     {
       "id": "e254d2c0-8d7b-4b2e-a6e0-cfecf42219f0",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "203 (오션뷰, 개별테라스)",
-      "nameEn": "203 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -947,17 +898,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -985,32 +925,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-21T01:47:04.897Z",
-      "updatedAt": "2026-04-29T06:10:01.983Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 9
     },
     {
       "id": "46c94815-aaef-4dab-a2ca-215eb03d2db1",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "204 (오션뷰, 개별테라스)",
-      "nameEn": "204 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1019,17 +961,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1057,32 +988,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-04-21T01:47:04.911Z",
-      "updatedAt": "2026-04-29T06:10:14.947Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 10
     },
     {
       "id": "eb14b9a3-338d-4d29-8c24-fd02c281f60a",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "205 (오션뷰, 개별테라스)",
-      "nameEn": "205 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1091,17 +1024,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1129,32 +1051,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-04-21T01:47:05.017Z",
-      "updatedAt": "2026-04-29T06:10:28.934Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 11
     },
     {
       "id": "33605840-07e0-478a-912d-7c48949ef257",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "206 (오션뷰, 개별테라스)",
-      "nameEn": "206 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1163,17 +1087,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1201,32 +1114,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-04-21T01:47:04.924Z",
-      "updatedAt": "2026-04-29T06:10:40.792Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 12
     },
     {
       "id": "419f9794-83e2-4463-a840-8dc20d83e566",
-      "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
-      "propertyName": "통영 프레전트 감성펜션",
       "name": "207 (오션뷰, 개별테라스)",
-      "nameEn": "207 (Ocean View, Private Terrace)",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(퀸침대1)+화장실1+개별바비큐\n2층 객실은 공용주방 이용",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 24개월 이상~성인 : 1인 10,000원\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1235,17 +1150,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -1273,19 +1177,25 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "4e63c2ec-e6ec-46a6-9aaf-f506f6802297",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 13,
-      "createdAt": "2026-04-21T01:47:04.984Z",
-      "updatedAt": "2026-04-29T06:10:56.545Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "d3f6de9e-18a3-4b4a-a692-0bceecacad94"
+      "displayOrder": 13
     }
   ],
   "homepage": {
@@ -1294,7 +1204,7 @@
     "templateType": "full_banner_conveyer",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -1302,7 +1212,12 @@
       "description": "통영 바다를 머금은 신선한 해산물을 가까이에서 만나는 프레전트 감성펜션",
       "keywords": "통영펜션,통영숙소,통영오션뷰,동피랑숙소,통영프레전트감성펜션"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1316,73 +1231,83 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-j1ahhu56mmk.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "a0b1e3f6-257f-4a25-bdf2-e2e81f76f7c5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-9vzxranq14i.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1a329ced-74c9-4f6e-ac57-62cd39d0be5b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-m71q9htok2d.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "457afb82-f06e-4ff1-b2c9-9a816fd5cb2f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-27bzbu4i0or.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "7476b144-2b79-48bd-a452-ae2145de70aa",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-igrgps8vtf.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "7d63c818-c777-4948-8b13-638da8f89bf4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-afci0e8c30l.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9cf26ede-ce3b-405f-a353-0fb879448f8d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-4nburrxf5gb.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "5cb231a9-d543-42ce-9be3-f0841e83e9b3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-6e9vgbl8xs4.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "e7c82a1a-1652-447a-8a63-aaaf8c8d1cea",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-b2e3lby7bs7.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0be095cb-4c52-4e0f-b9d1-a726dcadb56e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_hero/1776998831592-25bkwow92mw.jpg",
                     "sortOrder": 9,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1394,10 +1319,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_closing/1777001832557-6bncjip24wv.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1409,24 +1335,27 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_essence/1776998831592-p206e9f8b67.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "7cbc783f-ae5c-4b4a-98f2-bb6578f65726",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_essence/1776998831592-ygi1626ajcd.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8c94772c-8bba-4c6d-b12b-cb04b89396f3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_essence/1776998831592-70haqu98dox.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "통영 관광의 중심, 동피랑 벽화마을 입구에 위치해\n통영 최대 규모의 중앙시장이 바로 옆에 있어\n신선한 해산물을 가까이에서 편하게 즐길 수 있어요.\n\n객실에서는 통영 바다가 한눈에 펼쳐지는 \n오션뷰를 즐길 수 있습니다.\n아침엔 일출과 함께 상쾌한 하루를 시작해보세요.\n\n동피랑 산책과 디피랑 빛의 공원까지, \n통영의 매력을 가까이에서 느껴보세요."
               },
@@ -1438,45 +1367,50 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_gallery/1777001704698-i0w3ibv8tq.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "cc3c7286-4ef9-47d9-aa72-61990019d82d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_gallery/1777001704698-b43m5hqe8u.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d209c9f6-2958-4793-bc9b-aff877c5744a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_gallery/1777001704698-mqivjofn0z.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "26d746b3-5475-4c69-b777-4677c651fc0b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_gallery/1777001704698-qko0uodssa.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "bc76a473-15bc-4157-b3b3-0b560baa88a1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/index_gallery/1777001704698-es4hig8jake.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "통영의 바다를 가까이에서 느낄 수 있는 프레전트 감성펜션을 미리 만나보세요 !"
               },
               "signature": {
                 "title": " ",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               }
@@ -1494,7 +1428,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/directions_hero/1776999272384-sbkplivedy.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1516,7 +1451,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/main_hero/1777002267104-n1iz0a4wjc.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "통영 관광의 중심, 동피랑 벽화마을 입구에 위치한 특별한 공간입니다.\n바로 옆 중앙시장과 넉넉한 주차장으로 편리함까지 갖추었어요.\n객실에서는 통영 바다가 한눈에 펼쳐지는 오션뷰를 즐길 수 있습니다.\n아침엔 일출과 함께 상쾌한 하루를 시작해보세요.\n동피랑 산책과 디피랑 빛의 공원까지, \n통영의 매력을 가까이에서 느껴보세요.\n"
@@ -1556,8 +1492,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1569,13 +1505,14 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e27e1d74-6be6-4c37-9c4d-1b9023561c9e/reservation_hero/1776999074023-ervrbkonk4a.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1583,7 +1520,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "theme": {
         "font": {
@@ -1617,6 +1554,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1625,6 +1563,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1633,6 +1572,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1641,6 +1581,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1649,6 +1590,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1657,6 +1599,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1665,6 +1608,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1673,6 +1617,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1681,6 +1626,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1689,6 +1635,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1697,6 +1644,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1705,6 +1653,7 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
