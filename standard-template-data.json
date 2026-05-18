@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-05-11T01:47:53.862867571Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-05-18T05:21:10.582649494Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "fb24bfb6-8cf2-4bef-9e44-2aa4d0b18688",
     "homepageId": "e27e1d74-6be6-4c37-9c4d-1b9023561c9e"
@@ -25,7 +25,7 @@
     "province": "경상남도",
     "city": "통영시",
     "domain": "presentpension.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/partner/item/11906/calendar_list/",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1106211483",
     "ybsId": "80163",
     "amenities": [ ],
     "nearbyAttractions": [
@@ -386,6 +386,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -451,6 +452,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -516,6 +518,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -581,6 +584,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -646,6 +650,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -711,6 +716,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -776,6 +782,7 @@
         "퀸 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -839,6 +846,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -902,6 +910,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -965,6 +974,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -1028,6 +1038,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -1091,6 +1102,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
@@ -1154,6 +1166,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "책상",
